@@ -8,7 +8,7 @@ i am zahra ahmadi pardasti, i am studying computer engineering at pnu university
  
 - first name: zahra 
 - last name: ahmadu pardasti 
-- birth date: 1998/01/28 
+- birth date: 1998/01/25 
 - job status: full-time 
 - marriage status: single 
 
