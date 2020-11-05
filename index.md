@@ -16,6 +16,10 @@ i am zahra ahmadi pardasti, i am studying computer engineering at pnu university
 
 - painter 
 
+- html
+
+- css
+
 - network 
 
 ### languages 
@@ -27,6 +31,10 @@ i am zahra ahmadi pardasti, i am studying computer engineering at pnu university
 ### licenses & certifications 
 
 - painter : educational institutions 
+
+- html : self-reder
+
+- css : self-reader
 
 - network + : self-reader 
 
