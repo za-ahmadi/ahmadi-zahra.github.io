@@ -16,12 +16,11 @@ i am zahra ahmadi pardasti, i am studying computer engineering at pnu university
 
 - painter 
 
+- network 
+
 - html
 
 - css
-
-- network 
-
 ### languages 
 
 - persian(advanced) 
@@ -32,11 +31,11 @@ i am zahra ahmadi pardasti, i am studying computer engineering at pnu university
 
 - painter : educational institutions 
 
+- network + : self-reader 
+
 - html : self-reder
 
 - css : self-reader
-
-- network + : self-reader 
 
 ### working experience 
 
